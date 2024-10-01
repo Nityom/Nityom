@@ -23,7 +23,7 @@
 🧠 Currently Learning: THREE.JS
 
 <div align="center">
- <img src="https://profile-counter.glitch.me/Omar-Mega-Byte/count.svg?" />
+ <img src="https://profile-counter.glitch.me/Nityom/count.svg?" />
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,15 +45,15 @@
 ## 📊 GitHub Stats
 <div align="center">
  <a href="https://github.com/Nityom">
- <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Omar-Mega-Byte&show_icons=true&theme=radical" alt="Omar's GitHub Stats" />
+ <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Nityom&show_icons=true&theme=radical" alt="Omar's GitHub Stats" />
  </a>
  <a href="https://github.com/Nityom">
- <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-Mega-Byte&theme=radical" alt="Omar's GitHub Streak" />
+ <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nityom&theme=radical" alt="Omar's GitHub Streak" />
  </a>
 </div>
 <div align="center">
  <a href="https://github.com/Nityom">
- <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Mega-Byte&layout=compact&theme=radical" alt="Top Languages" />
+ <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nityom&layout=compact&theme=radical" alt="Top Languages" />
  </a>
 </div>
 
@@ -61,6 +61,6 @@
 ## 🏆 Achievements
 <p align="center">
  <a href="https://github.com/Nityom">
- <img align="center" width="200%" src="https://github-profile-trophy.vercel.app/?username=Omar-Mega-Byte&theme=radical&no-frame=true&margin-w=10" alt="Nityom's GitHub Trophies" />
+ <img align="center" width="200%" src="https://github-profile-trophy.vercel.app/?username=Nityom&theme=radical&no-frame=true&margin-w=10" alt="Nityom's GitHub Trophies" />
  </a>
 </p>
