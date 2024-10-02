@@ -15,8 +15,6 @@ jobs:
           github_user_name: Nityom
           outputs: |
             github-snake.svg
-      - name: List files for debugging
-        run: ls -la
       - name: Create dist folder
         run: mkdir -p dist
       - name: Move generated SVG to dist
@@ -26,3 +24,4 @@ jobs:
         with:
           commit_message: "Add latest github-snake.svg"
           file_pattern: dist/github-snake.svg
+          github_token: ${{ secrets.GITHUB_TOKEN }}
