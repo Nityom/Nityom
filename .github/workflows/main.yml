@@ -9,7 +9,7 @@
      runs-on: ubuntu-latest
      steps:
        - uses: actions/checkout@v3
-       - uses: Nityom/Nityom/@v1
+       - uses: Nityom/Nityom/@v3
          with:
             # Use this username's contribution graph  
             user_name: Nityom
