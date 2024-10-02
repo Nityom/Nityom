@@ -6,8 +6,8 @@
 </p>
  
 <div align="center">
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omar-Mega-Byte/Omar-Mega-Byte/output/github-contribution-grid-snake-dark.svg">
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omar-Mega-Byte/Omar-Mega-Byte/output/github-contribution-grid-snake.svg">
+
+ <source srcset="https://github.com/Nityom/Nityom/blob/main/dist/github-snake.svg">
  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Omar-Mega-Byte/Omar-Mega-Byte/output/github-contribution-grid-snake.svg">
 </div>
 
