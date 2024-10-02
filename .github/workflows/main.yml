@@ -10,9 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: Nityom/Nityom/contribution-graph-art@v1
+      - uses: Platane/snk/svg-only@v3
         with:
-          # Use this username's contribution graph  
-          user_name: Nityom
-          # Text on contribution graph 
-          text: NITYOM
+          github_user_name: Nityom
+          outputs: |
+            dist/github-snake.svg
