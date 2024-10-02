@@ -15,4 +15,4 @@
             user_name: Nityom
             # Text on contribution graph 
             text: NITYOM
-       - uses: nityom/simple-push-action@v1
+       - uses: Nityom/Nityom@v1
