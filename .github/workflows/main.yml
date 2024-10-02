@@ -19,13 +19,8 @@ jobs:
         run: mkdir -p dist
       - name: Move generated SVG to dist
         run: mv github-snake.svg dist/
-      - name: Commit files
-        run: |
-          git config --local user.name "GitHub Action"
-          git config --local user.email "action@github.com"
-          git add dist/github-snake.svg
-          git commit -m "Add latest github-snake.svg"
-      - name: Push changes
-        uses: ad-m/github-push-action@v1
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "Add latest github-snake.svg"
+          file_pattern: dist/github-snake.svg
