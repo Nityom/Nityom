@@ -14,7 +14,9 @@ jobs:
         with:
           github_user_name: Nityom
           outputs: |
-            dist/github-snake.svg
+            github-snake.svg
+      - name: List files for debugging
+        run: ls -la
       - name: Create dist folder
         run: mkdir -p dist
       - name: Move generated SVG to dist
