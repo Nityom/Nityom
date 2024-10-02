@@ -8,7 +8,7 @@
 <div align="center">
 
  <source srcset="https://github.com/Nityom/Nityom/blob/main/dist/github-snake.svg">
- <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Omar-Mega-Byte/Omar-Mega-Byte/output/github-contribution-grid-snake.svg">
+ <img alt="github contribution grid snake animation" src="https://github.com/Nityom/Nityom/blob/main/dist/github-snake.svg">
 </div>
 
 </h1>
