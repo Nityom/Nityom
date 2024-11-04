@@ -62,6 +62,6 @@
 <p align="center">
  <a href="https://github.com/Nityom">
  <img align="center" width="200%" src="https://github-profile-trophy.vercel.app/?username=Nityom&theme=radical&no-frame=true&margin-w=10" alt="Nityom's GitHub Trophies" />
- </a>
+ </a></p>
  [![An image of @nityom's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nityom)](https://holopin.io/@nityom)
-</p>
+
