@@ -45,10 +45,10 @@
 ## 📊 GitHub Stats
 <div align="center">
  <a href="https://github.com/Nityom">
- <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Nityom&show_icons=true&theme=radical" alt="Omar's GitHub Stats" />
+ <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Nityom&show_icons=true&theme=radical" alt="Nityom's GitHub Stats" />
  </a>
  <a href="https://github.com/Nityom">
- <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nityom&theme=radical" alt="Omar's GitHub Streak" />
+ <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nityom&theme=radical" alt="Nityom's GitHub Streak" />
  </a>
 </div>
 <div align="center">
